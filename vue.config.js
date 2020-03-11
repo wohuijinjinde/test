@@ -9,6 +9,6 @@ module.exports = {
         res.json(mockData);
       });
     }
-  }
-
+  },
+  publicPath: './'
 };
